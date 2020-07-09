@@ -1,0 +1,31 @@
+#grid{
+  display: grid;
+  grid-template-columns: 350px 1fr;
+}
+
+h1{
+  text-align: center;
+  border-bottom:2px solid black;
+  margin : 0px;
+  padding: 50px;
+  font-size: 80px;
+}
+
+#grid ol{
+  border-right: 2px solid gray;
+  width: 250px;
+  margin: 0px;
+  padding: 20px;
+  padding-left: 33px;
+  font-size: 30px
+}
+  #지역{
+  font-size: 40px;
+  text-align: center;
+
+  }
+
+  #이미지폰트{
+  font-size: 30px;
+
+  }
