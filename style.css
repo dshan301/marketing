@@ -3,12 +3,12 @@
   grid-template-columns: 350px 1fr;
 }
 
-h1{
+#상위 {
   text-align: center;
   border-bottom:2px solid black;
   margin : 0px;
   padding: 50px;
-  font-size: 80px;
+  font-size: 50px;
 }
 
 #grid ol{
@@ -24,3 +24,20 @@ h1{
   font-size: 35px;
 
   }
+
+#segong {
+  margin: 1px;
+  font-size: 25px;
+
+
+}
+
+h1 {
+  margin-top: 5px;
+  margin-bottom: 1px;
+}
+
+#상위{
+background-color: steelblue;
+color: white;
+}
